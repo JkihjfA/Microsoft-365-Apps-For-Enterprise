@@ -34,8 +34,8 @@ Easily install pre-configured Microsoft 365 Apps For Enterprise. These files are
 **Included Applications In Microsoft 365 Apps For Enterprise:**
 - Access
 - Excel
-- OneDrive (Groove)
 - OneDrive Desktop
+- OneDrive For Business (Groove)
 - OneNote
 - Outlook
 - PowerPoint
