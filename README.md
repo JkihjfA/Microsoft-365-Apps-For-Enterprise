@@ -37,5 +37,5 @@ Easily install pre-configured Microsoft 365 Apps For Enterprise. These files are
 
 **Instructions:**
 1. Extract "Microsoft Office 365 Enterprise (EN-US)" anywhere.
-2. Run "Install Microsoft Office 365 Enterprise (64-Bit, EN-US)" as an administrator if the system is 64-bit; run "Install Microsoft Office 365 Enterprise (32-Bit, EN-US)" as an administrator if the system is 32-bit.
+2. Run "Install Microsoft Office 365 Enterprise (32-Bit, EN-US)" as an administrator if the system is 32-bit; run "Install Microsoft Office 365 Enterprise (64-Bit, EN-US)" as an administrator if the system is 64-bit.
 3. Do not close the Command Prompt window during installation; otherwise, installation will not be successful.
