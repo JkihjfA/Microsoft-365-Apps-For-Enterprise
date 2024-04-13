@@ -2,7 +2,7 @@
 Easily install pre-configured Microsoft 365 Apps For Enterprise. These files are genuine files from Microsoft. Legitimate licenses and subscriptions are needed for these applications to work. The purpose of this installer is to seamlessly deploy Microsoft 365 apps in large organizations. Speed up the installation using these pre-configured installers.
 
 **DETAILS:**
-- This pre-configured installer contains 32-bit and 64-bit installers; it also contains Microsoft Teams. Use Office Customization Tool to further customize the settings. Refer to [Office Customization Tool](https://config.office.com/deploymentsettings). Import "Microsoft Office 365 Enterprise (32-Bit, EN-US).XML" or "Microsoft Office 365 Enterprise (64-Bit, EN-US).XML" to view the full configurations and edit the settings according to the organization's likings.
+- **Description:** This pre-configured installer contains 32-bit and 64-bit installers; it also contains Microsoft Teams. Use Office Customization Tool to further customize the settings. Refer to [Office Customization Tool](https://config.office.com/deploymentsettings). Import "Microsoft Office 365 Enterprise (32-Bit, EN-US).XML" or "Microsoft Office 365 Enterprise (64-Bit, EN-US).XML" to view the full configurations and edit the settings according to the organization's likings.
 - **Office Suites:** Microsoft 365 Apps For Enterprise
 - **Architecture:** 32-Bit & 64-Bit
 - **Primary Language:** English (United States)
