@@ -41,7 +41,7 @@ Easily install pre-configured Microsoft 365 Apps For Enterprise. These files are
 - PowerPoint
 - Publisher
 - Skype For Business
-- Teams
+- Teams For Work Or School
 - Word
 
 **Additional Applications:**
